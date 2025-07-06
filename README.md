@@ -67,13 +67,6 @@ Flutter & PHP Dev | AI + IoT Enthusiast
 
 ---
 
-### 📊 Contributions & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shoryan1&theme=tokyo-night&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
 
 <details>
   <summary>🎉 <b>Fun Facts & Hobbies</b></summary>
