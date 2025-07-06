@@ -1,8 +1,7 @@
-<!-- Shoryan1's GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Shoryan Chahar</h1>
-<h3 align="center">💻 Developer | 🔍 AI Researcher | 📲 App Creator | 🇮🇳 Indian Innovator</h3>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shoryan1/Shoryan1/main/banner.svg" alt="Shoryan Banner" />
+</p>
 
 
 ---
@@ -11,7 +10,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=550&lines=Empowering+Bharat+through+Innovation;Building+AI+%2B+IoT+for+Everyone;Always+Learning+by+Doing+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=blue&center=true&vCenter=true&width=550&lines=Empowering+Bharat+through+Innovation;Building+AI+%2B+IoT+for+Everyone;Always+Learning+by+Doing+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 
