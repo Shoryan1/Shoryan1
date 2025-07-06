@@ -1,26 +1,32 @@
 <!-- Shoryan1's GitHub Profile README -->
 
-<h2 align="center">Hey there! I'm Shorya 👋</h2>
-<p align="center">
-Founder & CEO at <b>ShoryaVerse AI</b> | Full Stack Developer <br>
-Flutter & PHP Dev | AI + IoT Enthusiast
-</p>
+<h1 align="center">👋 Hi, I'm Shoryan Chahar</h1>
+<h3 align="center">💻 Developer | 🔍 AI Researcher | 📲 App Creator | 🇮🇳 Indian Innovator</h3>
+
 
 ---
+
+###
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFC2&center=true&vCenter=true&width=550&lines=Empowering+Bharat+through+Innovation;Building+AI+%2B+IoT+for+Everyone;Always+Learning+by+Doing+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### 🧠 About Me
 
-- 🇮🇳 Building smart, accessible technology for Bharat  
-- 🚀 Passionate about AI, EdTech, & Digital Services  
-- 🤝 Mission: Empower through innovation & knowledge sharing  
-- 💬 Explaining tech   
-- 🤖 Love building fun AI + IoT prototypes  
+🚀 I'm the **Founder & CEO of ShoryaVerse AI** — an AI-powered real-time search engine built to empower users with instant knowledge and clean UI.
+.
+
+🎓 I love building things that combine **AI + Apps + Web + IoT**, and I share my journey through **projects, videos, and open-source code**.
+
+🛠️ Currently building projects that empower education, simplify life, and push tech boundaries.
+
+
 ---
 
 ### 🛠️ Tech Stack
